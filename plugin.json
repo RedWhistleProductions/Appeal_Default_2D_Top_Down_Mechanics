@@ -1,0 +1,12 @@
+{
+    "schema_version": 1,
+    "name": "Appeal_Default_2D_Top_Down_Mechanics",
+    "version": "1.0.0-beta.1",
+    "module": "Mechanics",
+    "platforms": ["windows-x64", "linux-x64"],
+    "artifacts": {
+        "windows": "Appeal_Default_2D_Top_Down_Mechanics.dll",
+        "linux": "Appeal_Default_2D_Top_Down_Mechanics.so"
+    },
+    "runtime_dependencies": {"windows": [], "linux_debian": []}
+}
